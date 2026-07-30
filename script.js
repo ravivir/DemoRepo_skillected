@@ -6,6 +6,4 @@ function showMessage() {
     alert("Hello, World!");
 }
 
-showMessage();Hello from Ravi 
-This is js file
-
+showMessage();
